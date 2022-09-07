@@ -14,4 +14,11 @@ public class Testing {
     public void someFunc(){
         System.out.println("Testing.someFunc");
     }
+    
+    public static void other(String param) {
+    	
+        System.out.println("other.someFunc");
+
+    	
+    }
 }
